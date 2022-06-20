@@ -1,1 +1,1 @@
-Projeto para site da Paróquia Luterana Crsito Bom Pastor.
+Projeto para site da Paróquia Luterana Cristo Bom Pastor.
